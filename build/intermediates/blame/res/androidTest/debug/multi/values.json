@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\libs\\signature-pad\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 40,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Users\\PC\\.android\\build-cache\\af744beda4938e856b2811442b3a90e18c597795\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 56,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\PC\\.android\\build-cache\\f850218087d2d96ba5dd4612e721326cd2f991cf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 42,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\PC\\.android\\build-cache\\f850218087d2d96ba5dd4612e721326cd2f991cf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 42,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 40,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "C:\\Users\\PC\\.android\\build-cache\\f850218087d2d96ba5dd4612e721326cd2f991cf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 40,
+                        "endOffset": 191
+                    }
+                }
+            }
+        ]
+    }
+]
